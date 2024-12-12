@@ -33,7 +33,7 @@ if __name__ == "__main__":
     print(f"Data Directory: {data_dir}")
     print(f"Data File: {data_file}")
 
-    checkpoint_path = "/Users/wafaa/Code/psamd/ast_models/ast_model_M/outputs/full_train_20241211_181038/full_train_20241211_181038.tar"
+    checkpoint_path = "train_model_M_20241211_190443.tar"
 
     bs = 12
     num_workers = 4
